@@ -46,7 +46,7 @@ x-investors:
 x-product: Socket to Pocket
 x-domain-status: non-resolving (registrar redemption/pending-delete as of 2026-07; no DNS A/NS records)
 x-enrichment: 'No API surface found: hardware/payments company, no OpenAPI, docs, SDKs, or well-known; website offline so no live probes possible. Identity-only enrichment from public sources (CB Insights, press).'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
