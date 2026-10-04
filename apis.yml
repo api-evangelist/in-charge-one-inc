@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/in-charge-one-inc.png
-name: In Charge One, Inc.
+name: In Charge One
 description: >-
   In Charge One, Inc. is a hardware startup behind "Socket to Pocket," a paid
   charging system for electronic devices in public spaces. The device lets
@@ -65,6 +65,15 @@ tags:
 - Hardware
 - IoT
 - Charging
+- EV Charging
+- Payments
+- Consumer Electronics
+- Energy
+tags_raw:
+- Company
+- Hardware
+- IoT
+- Charging
 - Electric Vehicle Charging
 - Payments
 - Consumer Electronics
@@ -78,3 +87,4 @@ maintainers:
 common:
 - type: Website
   url: https://incharge.one
+x-legal-name: In Charge One, Inc.
